@@ -1,4 +1,4 @@
-## Zst0NE 孤独已成为常态。
+## Zst0NE
 
 Thank you for visiting my repository.<br>
 
@@ -22,8 +22,8 @@ Skills: None
 `Idiot`  `Coward`  `Simp`  
 
 ## 🚀 Description
-**你总是为别人着想，但谁又替你想过呢？**
-**对任何事不要抱有希望，你想要的最后往往会是别人的，因为你太善良太老实。**  
+**对任何事不要抱有希望。**  
+**如果尖锐的批评完全消失，温和的批评将会变得刺耳。如果温和的批评也不被允许，沉默将被认为居心叵测。如果沉默也不再允许，赞扬不够卖力将是一种罪行。如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言**
 
 ## 🔭 Dream
 人生若只如初见，何事秋风悲画扇。
@@ -33,7 +33,7 @@ Skills: None
 - [Homepage](https://link.zstone.blog): Stone's Personal Profile Page Link.
 - [Stone's Blog](https://zstone.blog): Personal blog.
 - [Zst0NE's Blog](https://Zst0NE.github.io/): Personal blog in Github.
-- [CyberSecurity Note](https://cs.zstone.blog): Knowledge Base of Cybersecurity and CTF Competitions.
+- [CyberSecurity Note](https://wiki.zstone.blog): Knowledge Base of Cybersecurity and CTF Competitions.
   
 **📚 My Project:**
 - ~~[Cube-Minecraft-platform](https://github.com/Zst0NE/Cube-Minecraft-platform):  Minecraft-based online game platform based on the FRP/N2N/IPv6 hybrid principle.(易语言) 2020~~

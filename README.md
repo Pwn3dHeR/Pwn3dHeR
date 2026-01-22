@@ -22,10 +22,10 @@ Skills: None
 `Idiot`  `Coward`  `Simp`  
 
 ## 🚀 Description
-**梦想：月薪3000+，从事Web3、AI安全、二进制安全相关工作。**
+**NULL**
 
 ## 🔭 Dream
-人生若只如初见，何事秋风悲画扇。
+**NULL**
 ---
 
 **🌐 My Website:** 
